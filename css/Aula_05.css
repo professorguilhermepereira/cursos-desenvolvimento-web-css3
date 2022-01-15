@@ -1,0 +1,12 @@
+h1 {
+    background-color: rgba(0,0,0,.1);
+    /* 
+    1 valor = cima/baixo/direita/esquerda
+    2 valores = cima/baixo, direita/esquerda
+    4 valores = cima, direita, baixo, esquerda
+    */
+    margin: 100px;
+}
+div h1 {
+    margin-top: 0px;
+}

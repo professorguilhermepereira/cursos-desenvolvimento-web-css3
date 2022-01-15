@@ -1,0 +1,9 @@
+/*
+0 = 100% transparente ou 0% opaco
+1 = 100% opaco ou 0% transparente
+0 > e < 1 vaiaçao
+*/
+h1 {
+   color:rgb(0,0,255);/* color e o atributo que altera a cor do texto */
+}
+html5, css3, javascript, php, mysql
